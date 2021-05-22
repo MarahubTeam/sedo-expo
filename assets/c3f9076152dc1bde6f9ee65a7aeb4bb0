@@ -55,5 +55,21 @@
   "Không": "No",
   "Tài khoản": "Username",
   "Mật khẩu": "Password",
-  "Tạo ORG mới": "Create new ORG"
+  "Tạo ORG mới": "Create new ORG",
+  "Đã có lỗi khi duyệt yêu cầu.": "There is an error when approving.",
+  "Đã từ chối yêu cầu.": "Request is denied.",
+  "Đã có lỗi khi từ chối yêu cầu.": "There is an error when denying.",
+  "Ứng dụng này cần quyền truy cập tài liệu để hoạt động.": "This applicatoin need Access Document permission for working.",
+  "Ứng dụng này cần quyền truy cập máy ảnh để hoạt động.": "This application need Camera permission for working.",
+  "Duyệt": "Confirm",
+  "Ghi chú duyệt/từ chối": "Note",
+  "Đính kèm file": "Attachment",
+  "Chọn hình": "Select Picture",
+  "Chụp hình": "Take Picture",
+  "Chọn file": "Select File",
+  "Tình trạng": "Status",
+  "Đối tác": "Partner",
+  "Giá sửa chữa": "Repair price",
+  "Giá sửa chữa gần nhất": "Nearest price",
+  "Ngày dự kiến mang về": "Bring back date"
 }
