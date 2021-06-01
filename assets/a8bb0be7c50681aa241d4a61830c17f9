@@ -71,5 +71,9 @@
   "Đối tác": "Partner",
   "Giá sửa chữa": "Repair price",
   "Giá sửa chữa gần nhất": "Nearest price",
-  "Ngày dự kiến mang về": "Bring back date"
+  "Ngày dự kiến mang về": "Bring back date",
+  "Đã có lỗi khi gọi api.": "There is an error while calling API.",
+  "Bạn có muốn từ chối yêu cầu này không?": "Do you want to deny this request?",
+  "Bạn có muốn đồng ý yêu cầu này không?": "Do you want to approve this request?",
+  "Xác nhận yêu cầu": "Confirm request"
 }
